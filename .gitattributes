@@ -1,0 +1,3 @@
+hello.rb linguist-vendored
+src/ext/**/* linguist-vendored
+src/ext/*.cs linguist-vendored=false
